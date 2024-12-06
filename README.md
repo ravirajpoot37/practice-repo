@@ -1,3 +1,3 @@
 # practice-repo
 
-https://ravirajpoot37.github.io/
+<img src="https://ravirajpoot37.github.io/" alt="">
