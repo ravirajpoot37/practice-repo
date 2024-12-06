@@ -1,5 +1,5 @@
-<div align="center">
+<p align="center">
 <img src="https://ravirajpoot37.github.io" alt="">
-</div>
+</p>
 
 [Audio](https://ravirajpoot37.github.io)
